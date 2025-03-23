@@ -6,7 +6,6 @@ import Heading from "./Heading";
 import Section from "./Section";
 
 const Benefits = () => {
-  console.log(benefits[0].backgroundUrl);
   return (
     <Section id="features">
       <div className="container relative z-2">
